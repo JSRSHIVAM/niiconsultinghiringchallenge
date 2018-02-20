@@ -1,6 +1,6 @@
 # NII - Consulting Hiring Challenge
 Network Intelligence of India Pvt Ltd. Hiring Challenge Solution
-#TIMING 30 MINUTES
+# TIMING 30 MINUTES
 
 
 
